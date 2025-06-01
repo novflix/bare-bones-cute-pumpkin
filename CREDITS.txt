@@ -1,0 +1,12 @@
+Credits – Cute Carved Pumpkin: Bare Bones Edition
+
+This resource pack is an add-on for the "Bare Bones" resource pack by RobotPantaloons.
+All credit for the original visual style goes to them.
+
+This add-on only modifies the carved pumpkin texture to provide a cute and friendly alternative
+while staying true to the minimalist style of Bare Bones.
+
+Original Bare Bones pack: https://www.robotpants.net/
+
+Please do not redistribute original Bare Bones textures.
+This pack is intended to be used alongside the official Bare Bones pack.
